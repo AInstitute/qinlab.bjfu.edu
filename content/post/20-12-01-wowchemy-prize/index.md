@@ -1,14 +1,11 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Our group received the National Natural Science Fund “Inference of the demographic history and migration pattern of Oedaleus asiaticus using machine learning"
 date: 2020-12-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+A great news about NSFC funding: our project leading by Dr Xinghu Qin was funded.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
-
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+The outbreak of Oedaleus asiaticus Bey-Bienko has caused serious damage to agricultural and pastoral production in China. However, Oedaleus decorus Germar, the subspecies of O.asiaticus that is widely distributed in Europe, rarely outbreaks. The evolutionary genetic mechanism behind the geographical origin and outbreak differences of these two subspecies (O. asiaticus and O. decorus) are still not clear. Based on our previous studies, we will perform the Reduced-Representation Sequencing on the European population, Mongolian population, and Inner Mongolia population of these two Oedaleus. We aim to (1) investigate the geographical origin of Oedaleus, and build the molecularmonitoring technology based on machine learning to reveal the oversea sources and migratory paths of O. asiaticus in the Inner Mongolia grasslands; (2) analyze the
+evolutionary history, including the historical effective population size, migration, dispersal history, as well as genetic divergence patterns; (3) uncover the genetic and evolutionary basis of plague difference for O. asiaticus in different geographical regions. This project is of great significance in clarifying the geographical origin and adaptive genetic differentiation of O.asiaticus, and provides a scientific basis for monitoring and early warning,identification of outbreak source as well as proposal of effective prevention and control measures for O. asiaticus. Meanwhile, it will provide a new research paradigm for the origin, migration and outbreak mechanism of major pests.
