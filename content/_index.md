@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Qin
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Qin Research Group** lies in the intersection of ecology, genetics and evolution where we use statistical and machine learning tools to better understand how are genetic and phenotypic variation originated, developed and maintained.
   
   - block: collection
     content:
