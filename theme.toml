@@ -37,5 +37,5 @@ features = ["page builder", "widgets", "themes", "search", "research publication
             "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
 
 [author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com"
+  name = "Xinghu Qin"
+  homepage = "https://qinlab-bjfu-edu.netlify.app/author/xinghu-qin-%E7%A7%A6%E5%85%B4%E8%99%8E/"
