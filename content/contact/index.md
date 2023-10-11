@@ -20,8 +20,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '40.0045', 
-        longitude: '116.3499'
+        latitude: '40.00456', 
+        longitude: '116.34996'
       directions: 1119, the main building of BJFU.
       office_hours:
         - 'Monday 9:00 to 12:30'
