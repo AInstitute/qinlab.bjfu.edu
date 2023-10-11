@@ -58,10 +58,10 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title:Meet our people
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        If you would like to meet us, please contact us in "Contact".
     design:
       columns: '1'
 ---
