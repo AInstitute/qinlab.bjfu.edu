@@ -9,14 +9,14 @@ en:
   contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-zh:
- languageCode: zh-Hans
-  contentDir: content/zh
-  title: 秦兴虎研究组
-  params:
-    description: 秦兴虎研究组...
-  menu:
-    main:
-      - name: 秦兴虎研究组
-        url: '#about'
-        weight: 1
+#zh:
+# languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: 秦兴虎研究组
+#  params:
+ #   description: 秦兴虎研究组...
+ # menu:
+  #  main:
+   #   - name: 秦兴虎研究组
+  #      url: '#about'
+   #     weight: 1
