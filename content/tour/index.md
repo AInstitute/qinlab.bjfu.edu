@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Lab Tour
 date: 2022-10-24
 
 type: landing
@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the Qin Rsearch Lab
-        content: Take a look at what we're working on...
+        content: "Take a look at what we're working on..."
         align: center
         background:
           image:
