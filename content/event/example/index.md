@@ -1,28 +1,34 @@
 ---
-title: Example Event
+title: Seminar
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: EvoGen Seminar
+event_url: https://qinlab-bjfu-edu.netlify.app/event/Seminar/
 
-location: Wowchemy HQ
+location: Main Building 1109, School of Ecology and Natural Conservation, Beijing Forestry University.
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 35 Qinghua E Rd
+  city: Beijing, Haidian District
+  region: CN
+  postcode: '100107'
+  country: China
 
-summary: An example event.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: EvoGenetic Seminar Series.
+abstract: 'EvoGenetic seminar is a network for AI applications in evolutionary genomics.
+
+Two of the main scientific advancements in recent years are the capacity to obtain genome sequences at massive scale and the improved predictive power of Artificial Intelligence (AI). By integrating these two disciplines, it is now possible to efficiently infer the evolutionary history of species of interest from their genomes. Specifically, machine learning (ML) algorithms have shown promising results in the inference of past demographic history, hybridization and admixture events, spatial structure, life history traits and genes under natural (Darwinian) selection.
+
+​
+
+This network brings together experts in the field of AI/ML applied to genomic data for evolutionary inferences. We are interested in providing user-friendly software, exploring new algorithms, educating interdisciplinary students, and setting new standards in the field. Through a series of training and outreach events, we seek to provide a unified framework for AI applications in evolutionary genomics.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-10-31T13:00:00Z'
+date_end: '2023-10-31T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-10-11T00:00:00Z'
 
 authors: []
 tags: []
