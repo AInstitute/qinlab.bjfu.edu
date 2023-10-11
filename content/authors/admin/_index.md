@@ -10,7 +10,7 @@ last_name: Qin
 superuser: true
 
 # Role/position
-role: Associate Professor of AI in Population Genetics, Ecology and Evolution
+role: Associate Professor of Population Genetics, Ecology and Evolution
 
 # Organizations/Affiliations
 organizations:
