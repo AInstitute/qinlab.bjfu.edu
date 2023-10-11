@@ -58,10 +58,10 @@ sections:
   
   - block: markdown
     content:
-      title:Meet our people
+      title:
       subtitle:
       text: |
-        If you would like to meet us, please contact us in "Contact".
+        If you would like to meet us, please contact us from "Contact".
     design:
       columns: '1'
 ---
