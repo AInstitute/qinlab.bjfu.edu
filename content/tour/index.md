@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the Qin research lab
+      - title: 👋 Welcome to the Qin Rsearch Lab
         content: Take a look at what we're working on...
         align: center
         background:
