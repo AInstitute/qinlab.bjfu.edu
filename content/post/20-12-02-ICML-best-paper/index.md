@@ -9,9 +9,9 @@ After our Ecology and Evolution paper was published, Dr Xinghu Qin was interview
 
 <!--more-->
 
-## Desert Beetles Rely on Oral Sex for Successful Mating
+# Desert Beetles Rely on Oral Sex for Successful Mating
 
-# The more time the insects spend on the courtship ritual, the better mating goes
+### The more time the insects spend on the courtship ritual, the better mating goes
 
      By Saugat Bolakhe on January 1, 2022
 The original link: https://www.scientificamerican.com/article/desert-beetles-rely-on-oral-sex-for-successful-mating/
