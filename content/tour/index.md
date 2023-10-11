@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the Qin research lab
         content: Take a look at what we're working on...
         align: center
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
+      - title: World-Class Lab of AI in Ecology and Evolution
         content: 'Just opened last month!'
         align: right
         background:
