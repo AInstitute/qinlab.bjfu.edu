@@ -65,12 +65,18 @@ projects: []
 slides:
 ---
 
+
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+
 ---
 title: 'Deciphering signatures of natural selection via deep learning'
 authors:
   - admin
-  - Charleston W K Chiang
-  - Oscar E. Gaggiotti
+  - "Charleston W K Chiang"
+  - "Oscar E. Gaggiotti"
 date: '2022-09-02T00:00:00Z'
 doi: '10.1111/1755-0998.13606'
 
@@ -129,8 +135,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
