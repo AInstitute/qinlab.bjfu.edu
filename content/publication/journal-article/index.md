@@ -2,11 +2,11 @@
 title: 'Information‐based summary statistics for spatial genetic structure inference'
 authors:
   - admin
-  - Xinghu Qin
+  - Oscar E. Gaggiotti
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2022-03-07T00:00:00Z'
 doi: '10.1111/1755-0998.13606'
 
 # Schedule page publish date (NOT publication's date).
