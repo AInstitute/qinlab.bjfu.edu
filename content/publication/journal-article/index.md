@@ -1,16 +1,16 @@
 ---
-title: 'An example journal article'
+title: 'Information‐based summary statistics for spatial genetic structure inference'
 authors:
   - admin
-  - Robert Ford
+  - Xinghu Qin
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
-doi: ''
+doi: '10.1111/1755-0998.13606'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2023-10-12T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
+publication: '*Molecular Ecology Resources, 22*(6)'
+publication_short: 'Mol Eco Res'
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The measurement of biodiversity at all levels of organization is an essential first step to understand the ecological and evolutionary processes that drive spatial patterns of biodiversity. Ecologists have explored the use of a large range of different summary statistics and have come to the view that information-based summary statistics, and in particular so-called Hill numbers, are a useful tool to measure biodiversity. Population geneticists, on the other hand, have focused largely on summary statistics based on heterozygosity and measures of allelic richness. However, recent studies proposed the adoption of information-based summary statistics in population genetics studies. Here, we performed a comprehensive assessment of the power of this family of summary statistics to inform regarding spatial patterns of genetic diversity and we compared it with that of traditional population genetics approaches, namely measures based on allelic richness and heterozygosity. To give an unbiased evaluation, we used three machine learning methods to test the performance of different sets of summary statistics to discriminate between spatial scenarios. We defined three distinct sets, (i) one based on allelic richness measures which included the Jaccard index, (ii) a set based on heterozygosity that included FST and (iii) a set based on Hill numbers derived from Shannon entropy, which included the recently proposed Shannon differentiation, ΔD. The results showed that the last of these performed as well or, under some specific spatial scenarios, even better than the traditional population genetics measures. Interestingly, we found that a rarely or never used genetic differentiation measure based on allelic richness, Jaccard dissimilarity (J), showed the highest discriminatory power to discriminate among spatial scenarios, followed by Shannon differentiation ΔD. We concluded, therefore, that information-based measures as well as Jaccard dissimilarity represent excellent additions to the population genetics toolkit.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Information-based measures as well as Jaccard dissimilarity represent excellent additions to the population genetics toolkit.
 
 tags:
   - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1755-0998.13606
 url_code: ''
 url_dataset: ''
 url_poster: ''
