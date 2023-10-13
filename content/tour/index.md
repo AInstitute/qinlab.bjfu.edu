@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-     - title: Machine Learning in Poppulation Genetics and Beyond 
+      - title: Machine Learning in Poppulation Genetics and Beyond 
         content: "The state-of-the-art AI technology for biological problems...!"
         align: center
         background:
