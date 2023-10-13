@@ -18,7 +18,17 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+     - title: Machine Learning in Poppulation Genetics and Beyond. 
+        content: "The state-of-the-art AI technology for biological problems...!"
+        align: center
+        background:
+          image:
+            filename: AI_genomics.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: Learning and sharing ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
