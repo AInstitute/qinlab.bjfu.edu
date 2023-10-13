@@ -38,7 +38,7 @@ url_source: "#"
 url_video: "#"
 publication: ""
 featured: false
-date: 2019-04-07T00:00:00Z
+date: 2023-10-13T10:25:08.652Z
 url_slides: ""
 title: New machine learning method identifies subtle fine-scale genetic
   stratification in diverse populations
@@ -53,7 +53,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: "10.1101/2023.08.07.552391 "
