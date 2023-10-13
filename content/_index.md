@@ -45,7 +45,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: IMG_3845.jpg
+          filename: IMG_3845.JPG
           filters:
             brightness: 1
           parallax: false
