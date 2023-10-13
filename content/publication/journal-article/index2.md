@@ -19,7 +19,6 @@ publication_types:
 authors:
   - admin
   - Charleston W K Chiang
-  - Oscar E. Gaggiotti
 summary: Deciphering signatures of natural selection via deep learning.
 url_dataset: ""
 url_project: ""
