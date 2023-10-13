@@ -36,7 +36,7 @@ authors:
   - Parwinder Kaur
   - Barry R Pittendrigh
   - MTH Howlader
-publication: Front. Environ. Sci.
+publication: Front. Environ. Sci
 publication_short: Front. Environ. Sci
 banner:
   caption: ""
