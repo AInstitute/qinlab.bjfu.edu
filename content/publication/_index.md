@@ -9,7 +9,7 @@ publication_short: Front. Environ. Sci
 banner:
   caption: ""
   image: ""
-title: Poblications
+title: Publications
 author_notes: []
 doi: ""
 date: 2022-07-01T09:19:31.980Z
