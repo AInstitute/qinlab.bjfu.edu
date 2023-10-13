@@ -18,7 +18,7 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-     - title: Machine Learning in Poppulation Genetics and Beyond. 
+     - title: Machine Learning in Poppulation Genetics and Beyond 
         content: "The state-of-the-art AI technology for biological problems...!"
         align: center
         background:
@@ -39,7 +39,7 @@ sections:
           position: center
           color: '#555'
       - title: World-Class Lab of AI in Ecology and Evolution
-        content: 'Just opened last month!'
+        content: 'We are a group highly inclusive and diverse!'
         align: right
         background:
           image:
