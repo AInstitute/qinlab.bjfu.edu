@@ -1,65 +1,62 @@
 ---
-title: 'An example preprint / working paper'
+abstract: Fine-scale genetic structure impacts genetic risk predictions and
+  furthers the understanding of the demography of diverse population which may
+  lead to health disparities in population health monitoring system.
+  Epidemiology and population genetic research try to disentangle subtle genetic
+  differences within a population through various dimension reduction approaches
+  (i.e., PCA, DAPC, t-SNE, and UMAP). However, one undesirable aspect of these
+  approaches is that they either produce coarse and ambiguous cluster divisions
+  or they fail to preserve the correct genetic distance between populations. We
+  proposed a new machine learning algorithm (ALFDA) for better capturing
+  fine-scale genetic structure and recapitulating geogenetic distance. ALFDA
+  correctly estimated the genetic affinity between individuals and keep the
+  multimodal structure within populations. Through extensive simulations and
+  empirical data analyses, we showed that ALFDA outperformed the other
+  approaches in identifying fine-scale genetic structure and in preserving
+  geogenetic distance. Notably, genetic features produced from ALFDA had highest
+  correlation with F_ST under an isolation-by-distance model. We identified a
+  rich pattern of subtle fine-scale genetic differentiation within diverse
+  populations than those identified by existing approaches, indicating that
+  genetic ancestry is more nuanced than previously reported. Our method was able
+  to uncover fine-scale genetic structure within populations, which could help
+  understand the genetic origin and diversity of individuals in understudied
+  diverse populations thus facilitates precise health.
+slides: null
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+publication_types:
+  - "3"
 authors:
   - admin
-date: '2019-04-07T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['3']
-
-# Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Peilin Jia
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: "#"
+url_project: ""
+publication_short: bioRxiv
+url_source: "#"
+url_video: "#"
+publication: ""
+featured: false
+date: 2019-04-07T00:00:00Z
+url_slides: ""
+title: New machine learning method identifies subtle fine-scale genetic
+  stratification in diverse populations
 tags:
   - Source Themes
-featured: false
-
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
   - internal-project
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)"
+  focal_point: ""
+  preview_only: false
+publishDate: 2017-01-01T00:00:00Z
+url_poster: "#"
+url_code: "#"
+doi: "10.1101/2023.08.07.552391 "
 ---
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
