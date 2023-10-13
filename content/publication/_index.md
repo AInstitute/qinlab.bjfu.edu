@@ -31,13 +31,13 @@ authors:
   - MMM Kabir
   - Juel Datta
   - SS Haque
-  - Xinghu Qin
+  - admin
   - Douglas Landis
   - Parwinder Kaur
   - Barry R Pittendrigh
   - MTH Howlader
-publication: ""
-publication_short: Front. Environ. Sci.
+publication: Front. Environ. Sci.
+publication_short: Front. Environ. Sci
 banner:
   caption: ""
   image: ""
@@ -45,5 +45,5 @@ title: Landscape diversity influences the arthropod species diversity in the
   rice field
 author_notes: []
 doi: 10.3389/fenvs.2022.740287
-date: 2023-10-13T09:19:31.980Z
+date: 2022-07-01T09:19:31.980Z
 ---
