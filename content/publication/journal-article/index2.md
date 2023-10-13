@@ -32,8 +32,7 @@ featured: false
 date: 2022-09-02T00:00:00.000Z
 url_slides: ""
 title: Deciphering signatures of natural selection via deep learning
-tags:
-  - Source Themes
+tags: []
 projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
