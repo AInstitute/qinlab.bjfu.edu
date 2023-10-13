@@ -36,13 +36,13 @@ authors:
   - Parwinder Kaur
   - Barry R Pittendrigh
   - MTH Howlader
-publication: Landscape diversity influences the arthropod species diversity in
-  the rice field
+publication: ""
 publication_short: Front. Environ. Sci.
 banner:
   caption: ""
   image: ""
-title: Publications
+title: Landscape diversity influences the arthropod species diversity in the
+  rice field
 author_notes: []
 doi: 10.3389/fenvs.2022.740287
 date: 2023-10-13T09:19:31.980Z
