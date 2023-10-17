@@ -6,7 +6,7 @@ authors:
   - admin
   - Charleston WK Chiang
   - Oscar E Gaggiotti
-doi: 10.1093/bib/bbac202
+doi: 10.1093/bib/bbac354
 publication: Briefings in Bioinformatics
 publication_short: Brief. Bioinformatics.
 abstract: Geographic patterns of human genetic variation provide important
