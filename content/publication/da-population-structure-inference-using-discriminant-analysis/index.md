@@ -26,5 +26,5 @@ image:
     urn:x-wiley:2041210X:media:mee313748:mee313748-math-0043 and the Euclidean
     distance of the populations projected by five methods. The p-values of five
     approaches are all <1e-4
-date: 2023-10-17T13:43:54.617Z
+date: 2022-08-13T13:43:54.617Z
 ---
