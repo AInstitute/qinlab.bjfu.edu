@@ -1,5 +1,5 @@
 ---
-title: Research hightlight by mainstream media
+title: Research hightlighted by mainstream media
 date: 2020-12-02
 image:
   focal_point: top
