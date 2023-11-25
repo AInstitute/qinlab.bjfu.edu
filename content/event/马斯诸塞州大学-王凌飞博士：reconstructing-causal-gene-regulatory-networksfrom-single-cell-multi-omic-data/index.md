@@ -1,5 +1,5 @@
 ---
-title: 马斯诸塞州大学 王凌飞博士：Reconstructing causal gene regulatory networks from
+title: 马斯诸塞州大学 王凌飞助理教授 学术讲座：Reconstructing causal gene regulatory networks from
   single-cell multi-omic data
 abstract: >-
   王凌飞博士，University of
