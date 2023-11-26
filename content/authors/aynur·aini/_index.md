@@ -10,8 +10,8 @@ social:
   - display:
       header: false
     link: mailto:yanlp@bjfu.edu.cn
-    icon_pack: far
-    icon: mailto
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: Beijing Forestry University
 education:
