@@ -6,7 +6,12 @@ bio: My research interest include plant protection,genomic and genomic instabili
 interests:
   - Plant protection
   - genomic and genomic instability
-social: []
+social:
+  - display:
+      header: false
+    link: mailto:yanlp@bjfu.edu.cn
+    icon_pack: far
+    icon: mailto
 organizations:
   - name: Beijing Forestry University
 education:
