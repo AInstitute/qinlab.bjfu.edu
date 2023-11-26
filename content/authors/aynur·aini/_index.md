@@ -7,17 +7,17 @@ interests:
   - Plant protection
   - genomic and genomic instability
 social: []
-organizations: []
+organizations:
+  - name: Beijing Forestry University
 education:
   courses:
     - institution: Northeast Forestry University
-      course: Forest conservation
-      year: ""
+      course: Bacholar in forest conservation
+      year: 2010
     - course: Msc
       institution: Xinjiang University
+      year: 2015
 email: aynur2005@126.com
 superuser: false
-user_groups:
-  - SENC
-  - BJFU
+user_groups: []
 ---
