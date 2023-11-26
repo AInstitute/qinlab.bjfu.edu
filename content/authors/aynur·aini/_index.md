@@ -20,5 +20,6 @@ education:
 email: aynur2005@126.com
 superuser: false
 user_groups:
+  - Researchers
   - PhD
 ---
