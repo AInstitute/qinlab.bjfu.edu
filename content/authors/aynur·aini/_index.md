@@ -19,5 +19,6 @@ education:
       year: 2015
 email: aynur2005@126.com
 superuser: false
-user_groups: []
+user_groups:
+  - PhD
 ---
