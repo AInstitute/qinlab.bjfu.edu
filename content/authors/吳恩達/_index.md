@@ -5,6 +5,7 @@ organizations:
 superuser: false
 authors:
   - 闫利平
+avatar_filename: avatar.jpg
 bio: My research interests include Conservation Genomics, insect conservation
   and pest control.
 interests:
