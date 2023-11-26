@@ -23,3 +23,4 @@ user_groups:
   - Researchers
   - PhD
 ---
+Aynur·Aini is currently a PhD scholar at School of Ecology and Nature Conservation, Beijing Forestry University. She is interested in plant protection,genomic and genomic instability. Her PhD project focuses on the  neuric acid biosynthesis pathway of Xanthoceras sorbifolium.
