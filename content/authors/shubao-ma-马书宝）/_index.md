@@ -17,5 +17,6 @@ email: shubaoma@bjfu.edu.cn
 superuser: false
 user_groups:
   - Grad Students
+  - Undergraduate
 ---
 Shu bao Ma is an undergraduate at School of Biological Sciences, Beijing Forestry University. He is interested in computational Biology and Bioinformatics,Machine Learning and Artificial Intelligence.
