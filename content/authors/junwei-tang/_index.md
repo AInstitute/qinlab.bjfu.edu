@@ -13,18 +13,13 @@ education:
     - year: 2023
       course: Wild Animal Protection
       institution: Beijing ForestyUniversity
+    - course: High School
+      institution: The High School Attached To Hunan Nolmal University
+      year: 2018
 email: 2189806893@qq.com
 superuser: false
 user_groups:
   - Grad Students
   - Undergraduate
 ---
-Junwei Tang
-Education: HS 2020
-The High School Attached To Hunan Nolmal University
-BSc, 2023
-Beijing ForestyUniversity
-Interests:
-Evolution of species
-Deep Learning
-Urban ecology
+Junwei starts his undergraduate at School of Ecology and Nature Conservation in Sep 2023. He is interested in evolution of species, deep Learning, and urban ecology.
