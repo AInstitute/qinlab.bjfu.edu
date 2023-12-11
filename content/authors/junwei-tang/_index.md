@@ -1,5 +1,5 @@
 ---
-title: Junwei Tang
+title: Junwei Tang （唐俊炜）
 role: Undergraduate
 avatar_filename: tangjunwei.jpg
 bio: Evolution of species, Deep Learning, Urban ecology
