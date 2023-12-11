@@ -1,5 +1,5 @@
 ---
-title: Aynur Aini
+title: Aynur Aini (阿依努尔·艾尼)
 role: PhD student
 avatar_filename: aynur_aini_2.jpg
 bio: My research interest include plant protection,genomic and genomic instability.
