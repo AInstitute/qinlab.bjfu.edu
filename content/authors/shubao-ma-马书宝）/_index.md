@@ -1,7 +1,7 @@
 ---
 title: Shubao Ma (马书宝）
 role: Undergraduate
-avatar_filename: mashubao.jpg
+avatar_filename: avatar.jpg
 bio: Computational Biology and Bioinformatics,Machine Learning and Artificial
   Intelligence
 interests:
