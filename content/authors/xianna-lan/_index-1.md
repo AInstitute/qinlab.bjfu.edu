@@ -1,5 +1,5 @@
 ---
-title: Xianna Lan
+title: Xianna Lan (蓝贤娜)
 role: PhD student
 avatar_filename: xianna_lan.jpg
 bio: Lan Xianna, she studied at the College of Veterinary Medicine, South China
